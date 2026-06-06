@@ -1,0 +1,3 @@
+Versione Steam:
+Disco, Cartella steam\steamapps\common\Planet Explorers 
+Estrarre il file e sostituire quello che c'è già uguale, al prossimo avvio del gioco sarà in italiano
